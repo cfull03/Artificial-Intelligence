@@ -1,0 +1,7 @@
+
+==== Best Location and Holiday Prediction at 2025-04-28 12:18:49=====================================Location Holiday  PredictedProfit
+    Mall      No           6437.6
+
+Best Location and Holiday Prediction (2025-04-28 12:20:44):
+Location Holiday  PredictedProfit
+    Mall      No           6437.6

@@ -1,0 +1,19 @@
+
+==== Model Performance at 2025-04-28 12:18:48 ====Model: LinearRegression
+  - Mean Squared Error (MSE): 6915641.84
+  - R-squared (R2 Score): -0.22
+
+Model: RandomForest
+  - Mean Squared Error (MSE): 7000916.99
+  - R-squared (R2 Score): -0.24
+
+
+==== Model Performance at 2025-04-28 12:20:44 ====
+Model: LinearRegression
+  - Mean Squared Error (MSE): 6915641.84
+  - R-squared (R2 Score): -0.22
+
+Model: RandomForest
+  - Mean Squared Error (MSE): 7000916.99
+  - R-squared (R2 Score): -0.24
+
